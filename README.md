@@ -194,3 +194,6 @@ This repository serves as the official landing page for SparkoCam. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SparkoCam today!**
+
+---
+**Last updated:** 2026-11-06 20:19:45 UTC
