@@ -196,4 +196,4 @@ This repository serves as the official landing page for SparkoCam. The software 
 **Get the most recent version of SparkoCam today!**
 
 ---
-**Last updated:** 2026-11-12 00:20:27 UTC
+**Last updated:** 2026-11-12 08:05:36 UTC
